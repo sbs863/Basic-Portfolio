@@ -1,0 +1,19 @@
+.ProjectContainer {
+width: 638px;
+
+}
+
+.Projects {
+display: inline-block;
+padding-bottom: 50px;
+
+}
+
+.resize {
+	height: 275px;
+	width: 275px;
+}
+
+section {
+	height: 1050px;
+}
